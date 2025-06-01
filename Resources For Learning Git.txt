@@ -1,0 +1,12 @@
+https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources
+
+https://docs.github.com/en
+
+https://gitbookdown.dallasdatascience.com/setting-up-git.html
+
+https://blog.devgenius.io/10-visualized-commands-that-will-transform-your-workflow-37bb0dfc793d
+
+https://git-scm.com/doc
+
+https://git-scm.com/book/en/v2
+
